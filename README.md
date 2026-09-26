@@ -1,5 +1,5 @@
 # 💫 About Me:
-      I am a student currently learning the fundamentals of engineering and<br> developing my programming skills. I am learning Python fundamentals <br>and Data            Structures and Algorithms (DSA), C programming, and Java <br>fundamentals with Object-Oriented Programming (OOP) concepts. <br>My goal is to strengthen my            programming fundamentals, <br>problem-solving abilities, and technical skills.<br>
+I am a student currently learning the fundamentals of engineering and<br> developing my programming skills. I am learning Python fundamentals <br>and Data            Structures and Algorithms (DSA), C programming, and Java <br>fundamentals with Object-Oriented Programming (OOP) concepts. <br>My goal is to strengthen my            programming fundamentals, <br>problem-solving abilities, and technical skills.<br>
 
 
 [![](https://komarev.com/ghpvc/?username=Vinaygowdacv&icon=3&color=1)](https://visitcount.itsvg.in)
